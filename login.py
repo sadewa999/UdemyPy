@@ -1,8 +1,8 @@
 import time
 from cookies import load_cookie
-email ="saungilmuwan@gmail.com"
-Ude_password ="Terserah@BAA"
-g_password ="Terserah@BAA"
+email ="saungilmuan@gmail.com"
+Ude_password ="123456789"
+g_password ="123456789"
 def login_udemy(browser):
     try:
         load_cookie(browser)
